@@ -1,0 +1,7 @@
+{
+  "name": "resumancer-scripts",
+  "private": true,
+  "type": "module",
+  "description": "Browser form filler for the /resumancer skill",
+  "dependencies": { "playwright-core": "^1.50.0" }
+}
